@@ -45,7 +45,7 @@ Application Flutter mobile et web reposant sur une architecture proposée par le
 - Fake class : Model FakeBearer utilisé pour la connexion en dur via un faux access token
 
 ## Envie de tester ?
-Télécharger l'[APK](/apk/meteo.apk)
+Télécharger l'[APK](/apk/ma_meteo.apk)
 
 [^1]:La récupération des données se fait via l'API d'[Openweathermap](https://openweathermap.org/forecast5)
 [^2]:Framework populaire de mock [Mockito](https://pub.dev/packages/mockito) inspiré de la version [Java](https://github.com/mockito/mockito)
